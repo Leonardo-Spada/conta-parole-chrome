@@ -35,4 +35,4 @@ Ad ogni avvio, Chrome potrebbe mostrarti un avviso sulle "estensioni in modalit�
 
 ## 👨‍💻 Autore
 
-Progetto creato da [Leonardo Spada](https://leonardospada.it) - Visita il mio sito per altri progetti.
+Progetto creato da [Leonardo Spada](https://www.leonardospada.it)
